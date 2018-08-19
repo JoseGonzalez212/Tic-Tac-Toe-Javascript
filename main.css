@@ -51,6 +51,12 @@ footer {
     text-align: center;
     margin-top: 100px;
 }
+.contactlogo {
+    height: 40px;
+}
+.links {
+    padding: 10px;
+}
 #summary {
     text-align: center;
 }
